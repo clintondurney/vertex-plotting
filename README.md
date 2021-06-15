@@ -21,7 +21,7 @@ Open the Jupyter Notebook and run the cells.
 
 __Contents__
 * README and LICENSE
-* placode-plots.ipynb - Jupyter Notebook
+* placode-plots.ipynb
 
 The following setup has been developed and tested on Ubuntu 18.04LTS with Python 3. 
 
