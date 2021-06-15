@@ -13,9 +13,10 @@ __Installation__
 1. [Install POV-Ray](http://www.povray.org/download/)
 2. [Install Vapory](https://github.com/Zulko/vapory)
 3. [Install Jupyter Notebook](https://jupyter.org/install.html)
-4. Python packages that need installed using your favorite package manager (pip or conda): [Networkx](https://networkx.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Scipy][https://www.scipy.org/].
+4. Python packages that need installed using your favorite package manager (pip or conda): [Networkx](https://networkx.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Scipy](https://www.scipy.org/).
 
 __Running__
+
 Open the Jupyter Notebook and run the cells. 
 
 __Contents__
