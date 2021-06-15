@@ -6,7 +6,7 @@ Vertex Model was written in Python 3 and used in the publication of [Durney et. 
 Plotting uses the ray tracing software [POV-Ray](http://www.povray.org/) which interfaces with Python through [Vapory](https://github.com/Zulko/vapory).
 
 ## Author:
-* [Clinton H. Durney](clintondurney.github.io) (clinton.durney@jic.ac.uk)
+* [Clinton H. Durney](https://clintondurney.github.io/) (clinton.durney@jic.ac.uk)
 
 ## To use:
 __Installation__
